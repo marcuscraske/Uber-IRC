@@ -1,0 +1,18 @@
+This is currently a very basic IRC library for .NET, written in C#; this can probably easily be ported to Java and may help people to understand how IRC works from the client-side.
+
+Current features:
+> Establish connections to networks.
+> Events:
+-- Connection success/failure/disconnected
+-- Message received
+> Ability to specify i.e. nickname, username, name, respond-to-ping and connection password etc.
+> CTCP:
+-- Ping
+-- Version
+-- Time
+-- Finger
+> Connection polling
+> Commands managed by methods i.e. sending messages to users, joining channels and user-lists etc.
+
+Contributors:
+> Limpygnome (ubermeat)
