@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("IRC")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Uber IRC Library")]
+[assembly: AssemblyDescription("A simple .NET IRC library.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("IRC")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2011")]
+[assembly: AssemblyCompany("UberMeat")]
+[assembly: AssemblyProduct("Uber IRC")]
+[assembly: AssemblyCopyright("Creative Commons Attribution-ShareAlike 3.0 unported")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
