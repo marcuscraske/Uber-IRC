@@ -3,3 +3,8 @@ X:\Dropbox\Dropbox\Projects\Projects\IRC\bin\x86\Debug\IRC.pdb
 X:\Dropbox\Dropbox\Projects\Projects\IRC\obj\x86\Debug\ResolveAssemblyReference.cache
 X:\Dropbox\Dropbox\Projects\Projects\IRC\obj\x86\Debug\IRC.dll
 X:\Dropbox\Dropbox\Projects\Projects\IRC\obj\x86\Debug\IRC.pdb
+X:\Dropbox\Dropbox\Projects\Github\Uber-IRC\bin\x86\Debug\IRC.dll
+X:\Dropbox\Dropbox\Projects\Github\Uber-IRC\bin\x86\Debug\IRC.pdb
+X:\Dropbox\Dropbox\Projects\Github\Uber-IRC\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\Dropbox\Dropbox\Projects\Github\Uber-IRC\obj\x86\Debug\IRC.dll
+X:\Dropbox\Dropbox\Projects\Github\Uber-IRC\obj\x86\Debug\IRC.pdb
